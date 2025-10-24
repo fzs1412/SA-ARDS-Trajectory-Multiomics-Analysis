@@ -1,0 +1,1 @@
+R code for "Molecular Endotypes of Clinical Trajectories in Sepsis-Associated ARDS." This project identifies 4 clinical trajectories (N=722) using LCMM and integrates longitudinal transcriptomics and proteomics to define molecular endotypes.
